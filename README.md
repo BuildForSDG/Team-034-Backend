@@ -1,48 +1,31 @@
+
+
 barebones setup for JavaScript / Node projects replace this with a one-liner phrase describing this project or app
 
 [![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
 
 
 ## About
+SaferRoad is inspired by the massive number of deaths occurring as a result of road accidents across the country. Road accidents have become a normal and re-occurring phenomenon in Nigeria which constitutes a menace in modern times. Although both the developed and developing nations of the world have suffered from varying degrees of road accidents, the developing countries clearly dominates with Nigeria having the second highest rate of road accidents among 193 ranked countries of the world. Deaths from reckless driving are the third leading cause of death in Nigeria. 
 
-What is this project about. Ok to enrich here or the section above it with an image. 
+The project "SaferRoad" will help reduce road accidents across the country and can also be used by other developing countries that death causes from road accident are massive in numbers. 
 
-Once this repo has been setup on Codacy by the TTL, replace the above badge with the actual one from the Codacy dashboard, and add the code coverage badge as well. This is mandatory
-
-This is a simple JavaScript starter repo template for setting up your project. The setup contains
-
-- Jest: For runnung tests. We strongly recommend that JavaScript projects use Jest
-
-- Eslint & Prettier: For formatting code to match ESlint AirBnB coding standard. You might need to install the ESlint and Prettier plugins for your code editor to make the most of these utilities
 
 ## Why
 
-Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are imoirtant
+Goal 3: Good Health and Well-Being 
+Statement 2:
+Think of a solution from two perspectives - victim and response side. This solution can help avoid, alert, inform, monitor and report road injuries and deaths
+
+SaferRoad will be able to provide a rapid response support for accident victims thereby reducing deaths. Giving drivers clear description of road situation when traveling during the day or night which can avert accident, give warning for over speeding and can also block call notification if enabled in order to enable drivers concentrate in their driving and more...
+
 
 ## Usage
- How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
+ Coming soon...
 
 
-## Setup
 
-Install `npm` or `yarn` if you dont have any of them already installed. We recommend Yarn though.
 
-After clonning the repo to your local machine and moving into the cloned folder, Run `yarn install` to get started by installing dependencies. 
-
-`src/index.js` is the entry to the project and source code should go into the `src` folder.
-
-All tests should be written in the `__tests__' folder. There's a sample in there.
-
-This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bundler. It is much simpler that WebPack and the others
-
-#### Hints
-
-- Run `npm install` or `yarn install` to get started. We'll assume you are using Yarn.
-- Install additional dependencies: `yarn add <dependency-name> [-D]`
-- Run tests: `yarn test`
-- Run tests with test coverage info: `yarn test:cover`
-- Check the codebase for proper syntax and formatting compliance: `yarn lint`
-- Run your app in local dev mode: `yarn start`. This puts the bundled app in a `dist` folder, set up a local web server at localhost:1234, and continues to watch for your code changes which it syncs with the local server. This means if you loaded the app in a browser, it will auto-refresh as you code along. Feel free to use whatever bundler best meets your needs. Parcel was only added as a sample and for those looking for a simple but effective solution to the hassle of bundlers. 
 
 ## Authors
 
